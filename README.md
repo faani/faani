@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 👋 Hiya, I’m @Farhan.Razzaq-official
 
@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ### Hi there 👋
 -->
