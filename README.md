@@ -32,7 +32,7 @@
 <b>Lets connect</b>
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/username/">
+  <a href="https://www.linkedin.com/in/farhan-razzaq-5814267b/">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
